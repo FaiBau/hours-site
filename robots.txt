@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hours.berlin/sitemap.xml
